@@ -1,6 +1,6 @@
 # Game-Development
 
-##-BOOK:<br/>
+## -BOOK:<br/>
 [Download the BOOK](docs/.pdf)
 
 ## -Running the course software:<br/>
