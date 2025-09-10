@@ -6,6 +6,9 @@
 ## -Running the course software:<br/>
 [Download the manual](docs/Running+the+Course+Software+on+Windows.pdf)
 
+## -Datatypes and variables in C#:<br/>
+[Download the PDF](PDF/WhyDoIntegersWrap.pdf)
+
 
 ## -Classes in C#:<br/>
 
