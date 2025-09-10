@@ -12,5 +12,7 @@
 [Download the PDF](PDF/UsingAClass;Constructor.pdf)
 ## -Using a Class:Properties:<br/>
 [Download the PDF](PDF/UsingAClass;Properties.pdf)
+## -Using a Class:Methods:<br/>
+[Download the PDF](PDF/UsingAClass;Methods.pdf)
 
 
