@@ -22,6 +22,7 @@ namespace ProgrammingAssignment2
         /// </summary>
         /// <param name="args">command-line args</param>
         static void Main(string[] args)
+            
         {
             // loop while there's more input
             string input = Console.ReadLine();
@@ -87,4 +88,5 @@ namespace ProgrammingAssignment2
         }
     }
 }
+
 
