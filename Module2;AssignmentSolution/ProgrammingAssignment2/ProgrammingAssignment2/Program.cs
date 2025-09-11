@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace ProgrammingAssignment2
 {
     // IMPORTANT: Only add code in the section
@@ -88,3 +87,4 @@ namespace ProgrammingAssignment2
         }
     }
 }
+
