@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Exercise4
 {
     /// <summary>
@@ -26,3 +25,4 @@ namespace Exercise4
         }
     }
 }
+
