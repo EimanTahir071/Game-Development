@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace FirstConsoleApp
 {
     /// <summary>
@@ -18,3 +17,4 @@ namespace FirstConsoleApp
         }
     }
 }
+
